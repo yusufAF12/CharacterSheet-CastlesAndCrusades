@@ -1,0 +1,1313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"timebk",
+				"timeblocks"
+			],
+			[
+				"removeF",
+				"removeFromTimeblock"
+			],
+			[
+				"time",
+				"timeblockID"
+			],
+			[
+				"id",
+				"idToRemove"
+			],
+			[
+				"tim",
+				"timeblockID"
+			],
+			[
+				"disa",
+				"disableTimeblock"
+			],
+			[
+				"toSche",
+				"toScheduleObject"
+			],
+			[
+				"space",
+				"SpacesAvailable"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"timb",
+				"timeblockObject"
+			],
+			[
+				"tass",
+				"tasks"
+			],
+			[
+				"assign",
+				"assignmentID"
+			],
+			[
+				"timebloc",
+				"timeblockObject"
+			],
+			[
+				"is",
+				"isEmptyObject"
+			],
+			[
+				"timeb",
+				"timeblockID"
+			],
+			[
+				"json",
+				"jsonSuccess"
+			],
+			[
+				"repl",
+				"replaceData"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"Cer",
+				"CertificateCategory"
+			],
+			[
+				"certificat",
+				"certificateCategories"
+			],
+			[
+				"part",
+				"participantID"
+			],
+			[
+				"par",
+				"participantID"
+			],
+			[
+				"partic",
+				"participantID"
+			],
+			[
+				"partici",
+				"participantID"
+			],
+			[
+				"parti",
+				"participantID"
+			],
+			[
+				"update",
+				"updateTimeblockHTML"
+			],
+			[
+				"updat",
+				"updateTimeblockHTML"
+			],
+			[
+				"alld",
+				"allDaySpaces"
+			],
+			[
+				"to",
+				"toSchedule"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"participantTask",
+				"participantTaskObj"
+			],
+			[
+				"Tim",
+				"TimeAvailable"
+			],
+			[
+				"tasks",
+				"tasks"
+			],
+			[
+				"multi",
+				"multiblockWarning"
+			],
+			[
+				"last",
+				"lastChangedParticipantID"
+			],
+			[
+				"las",
+				"lastChangedParticipantID"
+			],
+			[
+				"active",
+				"activeTabNumItems"
+			],
+			[
+				"succes",
+				"successfully"
+			],
+			[
+				"block",
+				"blocksAvailable"
+			],
+			[
+				"schedule",
+				"scheduleable"
+			],
+			[
+				"tas",
+				"tasksSelected"
+			],
+			[
+				"selected",
+				"selectedObject"
+			],
+			[
+				"Module",
+				"ModuleID"
+			],
+			[
+				"spa",
+				"SpacesAvailable"
+			],
+			[
+				"disab",
+				"disableAllDay"
+			],
+			[
+				"selecte",
+				"selectedObject"
+			],
+			[
+				"timeblo",
+				"timeblockObject"
+			],
+			[
+				"tota",
+				"totalHoursSelected"
+			],
+			[
+				"scheduledEventO",
+				"scheduledEventOccurrenceID"
+			],
+			[
+				"Organi",
+				"OrganizationID"
+			],
+			[
+				"organiz",
+				"organizationArray"
+			],
+			[
+				"Orga",
+				"Organization"
+			],
+			[
+				"fkP",
+				"fkParticipantID"
+			],
+			[
+				"Parti",
+				"ParticipantID"
+			],
+			[
+				"fk",
+				"fkParticipantID"
+			],
+			[
+				"organ",
+				"organizationID"
+			],
+			[
+				"ora",
+				"organizationType"
+			],
+			[
+				"getOr",
+				"getOrganizationType"
+			],
+			[
+				"organi",
+				"organizationType"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"reque",
+				"requestObj"
+			],
+			[
+				"config",
+				"configuration"
+			],
+			[
+				"error",
+				"errorMessages"
+			],
+			[
+				"sales",
+				"SalesPropositionID"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"remove",
+				"removeFromCart"
+			],
+			[
+				"un",
+				"unpayableChecked"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"payabl",
+				"payableChecked"
+			],
+			[
+				"taks",
+				"taskPhaseAssignment"
+			],
+			[
+				"upda",
+				"updateParams"
+			],
+			[
+				"fkTask",
+				"fkTaskPhaseID"
+			],
+			[
+				"cartS",
+				"cartSalesProp"
+			],
+			[
+				"valid",
+				"validSalesPropIds"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"Langu",
+				"LanguageName"
+			],
+			[
+				"cart",
+				"cartDetails"
+			],
+			[
+				"Particip",
+				"participantID"
+			],
+			[
+				"Part",
+				"ParticipantID"
+			],
+			[
+				"organiza",
+				"organizationID"
+			],
+			[
+				"paymentMeth",
+				"paymentMethodCode"
+			],
+			[
+				"transac",
+				"transactionResults"
+			],
+			[
+				"PaymentM",
+				"PaymentMethodCode"
+			],
+			[
+				"paymentMetho",
+				"paymentMethodDetails"
+			],
+			[
+				"Payment",
+				"PaymentMethod"
+			],
+			[
+				"pay",
+				"paymentForm"
+			],
+			[
+				"post",
+				"postValues"
+			],
+			[
+				"invoi",
+				"invoicedetailsAction"
+			],
+			[
+				"invoice",
+				"invoiceID"
+			],
+			[
+				"ext",
+				"externalCheckoutForm"
+			],
+			[
+				"car",
+				"cartID"
+			],
+			[
+				"SalesPropo",
+				"SalesPropositionID"
+			],
+			[
+				"salesProp",
+				"SalesPropositionID"
+			],
+			[
+				"brow",
+				"browserSessionID"
+			],
+			[
+				"sale",
+				"salesPropID"
+			],
+			[
+				"term",
+				"termLoader"
+			],
+			[
+				"participant",
+				"participantID"
+			],
+			[
+				"orgAssi",
+				"orgAssignmentModel"
+			],
+			[
+				"Org",
+				"OrganizationID"
+			],
+			[
+				"cb",
+				"cbRequestForm"
+			],
+			[
+				"org",
+				"orgAssignments"
+			],
+			[
+				"Zen",
+				"Zend_Registry"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"han",
+				"handleError"
+			],
+			[
+				"Dashbo",
+				"DashboarTab"
+			],
+			[
+				"Dash",
+				"DashboardTab"
+			],
+			[
+				"obser",
+				"observable"
+			],
+			[
+				"Status_",
+				"Status_Start"
+			],
+			[
+				"Dashb",
+				"DashboardTabsModel"
+			],
+			[
+				"overvie",
+				"overviewTabs"
+			],
+			[
+				"DashboardTab",
+				"DashboardTabsViewModel"
+			],
+			[
+				"overv",
+				"overviewTabs"
+			],
+			[
+				"ove",
+				"overviewTabs"
+			],
+			[
+				"ov",
+				"overviewTabs"
+			],
+			[
+				"observable",
+				"observableArray"
+			],
+			[
+				"categ",
+				"categoryName"
+			],
+			[
+				"full",
+				"fullChartLabels"
+			],
+			[
+				"knowl",
+				"Knowledge"
+			],
+			[
+				"fu",
+				"fullChart"
+			],
+			[
+				"loadForm",
+				"loadFormsAndDocumentsTab"
+			],
+			[
+				"opt",
+				"optionsText"
+			],
+			[
+				"locali",
+				"localizeString"
+			],
+			[
+				"emp",
+				"emptyText"
+			],
+			[
+				"Modul",
+				"ModuleSettings"
+			],
+			[
+				"widgetChart",
+				"widgetChartIndex"
+			],
+			[
+				"canv",
+				"canvasID"
+			],
+			[
+				"get",
+				"getContext"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.html",
+			"settings":
+			{
+				"buffer_size": 113880,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 1326,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 215.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add All"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"a",
+				"Git: Add All"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"comit",
+				"Git: Commit"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"p",
+				"Git: Push Current Branch"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git ignore",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"git:re",
+				"Git: Log Current File"
+			],
+			[
+				"revert",
+				"File: Revert"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"commit ",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"git: add",
+				"Git: Add All"
+			],
+			[
+				"git: push",
+				"Git: Push"
+			],
+			[
+				"git: comm",
+				"Git: Commit"
+			],
+			[
+				"git: a",
+				"Git: Add..."
+			],
+			[
+				"git: c",
+				"Git: Commit"
+			],
+			[
+				"git c",
+				"Git: Stash Changes"
+			],
+			[
+				"",
+				"Git: Push"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimeLinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"phpfmt",
+				"phpfmt: build autocomplete database"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: POST['…']"
+			],
+			[
+				"sublimlinter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"get Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git:commit",
+				"Git: Commit"
+			],
+			[
+				"git: commit ",
+				"Git: Commit"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 587.0
+	},
+	"console":
+	{
+		"height": 460.0,
+		"history":
+		[
+			"which jshint",
+			"jshint",
+			"phpmd",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"phpcs"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/AWilson/Documents/NodeServer/js",
+		"/C/Users/AWilson/Documents/NodeServer"
+	],
+	"file_history":
+	[
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/public/css/plexus_intl/styles.css",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Participant.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Person.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Participant_Scheme_Curriculum_Details.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/public/js/dashboard_new.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/public/js/dashboard/dashboard_model.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/public/js/dashboard/data_models.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/public/css/iatf_adp_admin.css",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/controllers/ResultsController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/customization/iaqg/customer.ini",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Participant_Schedule_Assignment.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/controllers/ParticipantController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/services/auth/auth.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/controllers/AdminController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/public/css/schedule.css",
+		"/C/Users/AWilson/Documents/NodeServer/js/app.js",
+		"/C/Users/AWilson/Documents/NodeServer/js/vue.js",
+		"/C/Users/AWilson/Documents/NodeServer/test.html",
+		"/C/Users/AWilson/Documents/NodeServer/index.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/controllers/ScheduleController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/public/js/schedule/schedule.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/views/scripts/schedule/schedule-participants.phtml",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/views/scripts/store/index.phtml",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/controllers/StoreController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/public/js/store/store.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/public/js/process_scores.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/controllers/ApiController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/views/scripts/participant/details.phtml",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/controllers/OrganizationController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/module_publish/ModulePublishProgress.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Task.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/controllers/DashboardController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Participant_Task.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/services/modulePublish/modulePublish.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/public/flex-xa/swfobject.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/module_publish/EnrollmentManager.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/services/modulePublish/classes/object_frame.class.inc.php",
+		"/C/Users/AWilson/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/C/Users/AWilson/Documents/Platform/trunk/services/modulePublish/classes/object_virtualscreen.class.inc.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/services/modulePublish/classes/object_screen.class.inc.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/admin/Event.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/module_designer/ModuleDesignerAPIObject.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/controllers/CartController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Cart.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/controllers/RegistrationController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/utils/soapRequest.inc.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/services/modulePublish/classes/object_actionrule.class.inc.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/services/modulePublish/classes/object_storyboard.class.inc.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/services/modulePublish/classes/functions_resultAnalyser.class.inc.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/services/modulePublish/classes/functions_modulePublish.class.inc.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/API.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Participant_Scheme_Certificates.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Scheme_Certificate_Templates.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Scheme_Certificate_Series.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Scheme_Certificate_Terms.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Event.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/admin/Tasks/IAQG_9100_AATT.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/modules/adminbase/controllers/ModulesController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/admin/Tasks/IAQG_9100_AATT_Knowledge_Retake.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Participant_Organization_Assignment.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Sales_Proposition.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Process.php",
+		"/C/Users/AWilson/Documents/Platform/branches/release/include/models/admin/Offer.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Offer.php",
+		"/C/Users/AWilson/Documents/Platform/branches/release/include/models/admin/CartTransactionObject.php",
+		"/C/Users/AWilson/Documents/Platform/branches/release/include/models/admin/Process.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/CartTransactionObject.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/controllers/IndexController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/models/Sales_Proposition.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/AuthAPIObject.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/DataModel.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/models/Publish.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/controllers/StoreController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/modules/adminbase/controllers/WorkflowController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/services/system/system-wsdl.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Notification.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/admin/SalesProposition.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/admin/Task.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/admin/Offer.php",
+		"/C/Users/AWilson/Documents/Platform/branches/release/include/models/admin/Sales_Proposition.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/utils/configManager.inc.php",
+		"/C/Users/AWilson/Documents/Platform/branches/release/sites/admin/application/controllers/ParticipantController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/admin/EmailNotification.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/admin/CertificateFactory.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Store_Object.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/application.inc.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Service.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/public/css/store.css",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/views/scripts/schedule/index.phtml",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Audit_Scheme_Certificate_Download.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/public/js/dashboard.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/utils/certificateRenderer.inc.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/admin/Tasks/IAQG_9100_2016_Delta.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/controllers/DashboardController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/html5-site/node_modules/babel-runtime/core-js/array/push.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/public/js/organization/enrollment_group_add_existing_participant.js",
+		"/C/Users/AWilson/Documents/Platform/branches/iatf-dev/sites/platform/public/js/xeditable/css/bootstrap.css",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/public/js/organization/enrollment_group_manage.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/public/js/dashboard/dashboard-view-model.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/public/css/style.css",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/AdminSession.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Scheduled_Event_Occurrence.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Scheduled_Event.php",
+		"/C/Users/AWilson/Documents/Platform/branches/release/include/classes/module_publish/ResultAnalyzer.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/views/scripts/results/response-stats.phtml",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Report_Scoring.php",
+		"/C/Users/AWilson/Documents/Platform/branches/release/include/models/admin/Report_Scoring.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/module_publish/ResultAnalyzer.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/layouts/plexus_intl.phtml",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Scheduled_Event_Timeblock.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/views/scripts/schedule/search.phtml",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/classes/admin/ScheduledEventOccurrences.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/invoice/application/controllers/ManageController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Purchase_Invoice.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/invoice/application/controllers/CheckoutController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/invoice/application/forms/PaymentMethod_Select.php",
+		"/C/Users/AWilson/Downloads/tablesorter-master (1)/tablesorter-master/js/jquery.tablesorter.js",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/invoice/application/views/scripts/checkout/index.phtml",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/invoice/application/views/scripts/checkout/review.phtml",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/views/scripts/store/cart.phtml",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/controllers/AccountController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/utils/plexusCssHelper.inc.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/utils/localizationHelper.inc.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/forms/CB_Sponsorship_Request.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/controllers/PasswordController.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/forms/Organization_Phone_Number_Assignment.php",
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/public/css/iatf/styles.css",
+		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Purchase_Transaction.php"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 206.0,
+		"where_history":
+		[
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\models\\admin",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application\\controllers",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\classes",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\services",
+			"C:\\Users\\AWilson\\Documents\\Platform\\branches\\release",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\services",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\models\\admin",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\classes\\admin",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\utils",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\admin\\application",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\models\\admin",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\admin\\application\\controllers",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\models\\admin",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\services",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\models",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application\\controllers",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application\\models",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application\\controllers",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\models",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application\\models",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application\\controllers",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\models",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application\\controllers",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application\\models",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application\\controllers",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\models",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\public\\js",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\admin\\application\\controllers",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application\\controllers",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application\\modules\\adminstore\\controllers",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\application\\controllers",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\models\\admin",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\services\\auth",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\modules",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\modules\\Dashboard\\com\\plexus\\view",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\sites\\platform\\public",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\models\\admin",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\include\\classes\\admin",
+			"C:\\Users\\AWilson\\Documents\\Platform\\trunk\\services\\auth",
+			"\\\\plexus\\Web Files\\Course Administration Portal\\metrics",
+			"\\\\plexus\\Web Files\\Course Administration Portal\\",
+			"\\\\plexus\\Web Files\\Course Administration Portal\\metrics",
+			"\\\\plexus\\Web Files\\Course Administration Portal\\scoring",
+			"\\\\plexus\\Web Files\\HigherLearning",
+			"\\\\plexus\\Web Files\\HigherLearning\\wp-content\\themes\\vantage",
+			"\\\\plexus\\Web Files\\HigherLearning",
+			"\\\\plexus\\Web Files\\blog.plexusintl.com\\HigherLearning"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addC",
+			"taskAssignmentArray",
+			"$currentEO",
+			"create",
+			"createNew",
+			"Participant_Scheme_Curriculum_Details",
+			"empty",
+			"MyCoursesExams",
+			"Module",
+			"self.showDefaultOptions",
+			"optionsText",
+			" WARNING: Either 0 or more than 1 tutorial modules",
+			" WARNING: Either 0 or more than 1 tutorial modules\n",
+			" WARNING: Either 0 or more than 1 tutorial modules were found\n",
+			" WARNING: Either 0 or more than 1 tutorial modules were                            found: 0\n",
+			"disabletim",
+			"taskTime",
+			"console.log",
+			"timeBlockID",
+			"timeblockObject.timeblocks[id]",
+			"toggleAllDayWarning",
+			"spacesAvailable",
+			"populateAllDay",
+			"populateTimeblock",
+			"enableAll",
+			"widget",
+			"widge",
+			"widgetURL",
+			"modules",
+			"trigger Event",
+			"();\n",
+			" $this -> stats[\"OverallScore\"][",
+			"task",
+			"populateAllDay",
+			" clearTimeblocks",
+			"isEmpty",
+			"object.i",
+			"object",
+			"selectedObject",
+			"[participantID]",
+			"selectedObject",
+			"blocksAvailable",
+			"got some vars",
+			"got some vars:",
+			"got som",
+			"about to check",
+			"processSales",
+			"Processing Sales",
+			"got some",
+			"Processing Sales",
+			"-1",
+			"=",
+			"=1",
+			"IsActive",
+			"PropositionStatus",
+			"IsPaid",
+			"PropositionStatus",
+			"alreadyPurchased",
+			"echo",
+			"phplog",
+			"generateCertificate",
+			"phplog",
+			"createXMLFromString",
+			"create",
+			"createXmlF",
+			"Dahsboard",
+			"MyCoursesExams",
+			"getData",
+			"where",
+			"showInPopup",
+			"updateTImeblockHTML",
+			"updateTimeblocks",
+			"timeblockID",
+			"listCompleteEnrollments",
+			"timeblockObject",
+			"block",
+			"var ",
+			"totalTime",
+			"fullDayEvent",
+			"id",
+			" id",
+			"id",
+			"fullDayEvent",
+			"totalTime",
+			"titakTune",
+			"$a",
+			"BtnGenBlue",
+			"\"",
+			"summaryText",
+			"hidden",
+			"checkforCurrentOrder",
+			"$cartSalesProp",
+			".",
+			"$event",
+			"indexOf",
+			"hasClass",
+			"responseStats",
+			";",
+			"=",
+			"newblock.",
+			"newBlock.",
+			"MaxSpace",
+			"schedule",
+			"table.config.p",
+			"table.config.",
+			"table.config.parsers",
+			"res",
+			"resize",
+			"disabled",
+			"warning",
+			"\"",
+			"echo ",
+			"order",
+			"eventAssignmodule",
+			"IN ",
+			"IN",
+			"SystemDialectID",
+			"checkForActiveContact",
+			"setOrganizationID",
+			"getParam",
+			"getParams",
+			"Param",
+			"breadcrumbs",
+			"#666666",
+			"RefundValue",
+			"\", \"",
+			"-> joinInner (",
+			"\"), \""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"}\n",
+			"#003b6f",
+			"mailchimp_api_key",
+			"lime_db"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 113880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								722,
+								722
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 611.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 217.0
+	},
+	"pinned_build_system": "",
+	"project": "character-sheet.sublime-project",
+	"replace":
+	{
+		"height": 53.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"push",
+				"trunk\\sites\\html5-site\\node_modules\\babel-runtime\\core-js\\array\\push.js"
+			],
+			[
+				"",
+				"trunk\\sites\\platform\\public\\js\\dashboard\\dashboard-tabs.js"
+			],
+			[
+				"service.php",
+				"branches\\demo\\include\\models\\admin\\Service.php"
+			],
+			[
+				"setvar",
+				"trunk\\include\\phpdocx\\examples\\files\\TemplateVariables.docx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\AWilson\\Documents\\Platform.svn\\trunk\\sites\\cpd\\IATF-CPD.sublime-workspace"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1094.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 550.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
