@@ -1,0 +1,351 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>Character Sheet</title>
+        <script type="text/javascript" src="js/vue.js"></script>
+        <script type="text/javascript" src="js/app.js"></script>
+    </head>
+    <body>
+        <div id="wrapper">
+            <div class="container">
+                <form name="character-sheet" id="sheet">
+                    <article id="general">
+                        <h1>General</h1>
+                        <section>
+                            <div><label>Character Name</label><input type="text" name="characterName"></div>
+                            <div><label>Title</label><input type="text" name="title"></div>
+                            <div><label>Race</label><input type="text" name="race"></div>
+                            <div><label>Class</label><input type="text" name="characterLevel"></div>
+                            <div><label>Alignment</label><input type="text" name="alignment"></div>
+                            <div><label>Deity</label><input type="text" name="deity"></div>
+                            <div><label>Level</label><input type="text" name="level" /></div>
+                            <div><label>Languages</label><input type="text" name="languages" /></div>
+                            <div><label>Abilities</label><input type="text" name="advantages" /></div>
+                        </section>
+                    </article>
+                    <article id="physical">
+                        <h1>Physical Characteristics    </h1>
+                        <div><label>Age</label><input type="text" name="age"></div>
+                        <div><label>Gender</label><input type="text" name="gender"></div>
+                        <div><label>Hair</label><input type="text" name="hair"></div>
+                        <div><label>Eyes</label><input type="text" name="eyes"></div>
+                        <div><label>Height</label><input type="text" name="height"></div>
+                        <div><label>Weight</label><input type="text" name="weight"></div>
+                        <div><label>Scars or other distinguishing traits</label><input type="textarea" name="physical-traits"></div>
+                        <div><label>Clothing Style</label><input type="textarea" name="clothing"></div>
+                        <div><label>Languages Known</label><input type="textarea" name="languages"></div>
+                    </article>
+
+                    <article id="attributes">
+                        <h1>Attributes</h1>
+                        <section>
+                            <div>
+                                <span>Str</span>
+                                <label>Strength</label>
+                            </div>
+                            <div>
+                                <input type="text" name="str">
+                                <label>Ability Score</label>
+                            </div>
+                            <div>
+                                <ability-modifier ability="str">
+                                    <span>
+                                        <input type="text" name="str-modifier" value="" readonly="readonly">
+                                        <label>Ability Modifier</label>
+                                    </span>
+                                </ability-modifier>
+                            </div>
+                            <div>
+                                <input type="text" name="str-temp-score">
+                                <label>Temp Score</label>
+                            </div>
+                            <div>
+                                <ability-modifier ability="str">
+                                    <span>
+                                        <input type="text" name="str-temp-modifier" value="" readonly="readonly">
+                                        <label>Temp Modifier</label>
+                                    </span>
+                                </ability-modifier>
+                            </div>
+                            <div>
+                                <span>Dex</span>
+                                <label>Dexterity</label>
+                            </div>
+                            <div>
+                                <input type="text" name="dex">
+                                <label>Ability Score</label>
+                            </div>
+                            <div>
+                                <ability-modifier ability="dex">
+                                    <span>
+                                        <input type="text" name="dex-modifier" value="" readonly="readonly">
+                                        <label>Ability Modifier</label>
+                                    </span>
+                                </ability-modifier>
+                            </div>
+                            <div>
+                                <input type="text" name="dex-temp-score">
+                                <label>Temp Score</label>
+                            </div>
+                            <div>
+                                <ability-modifier ability="dex">
+                                    <span>
+                                        <input type="text" name="dex-temp-modifier" value="" readonly="readonly">
+                                        <label>Temp Modifier</label>
+                                    </span>
+                                </ability-modifier>
+                            </div>
+                            <div>
+                                <span>Con</span>
+                                <label>Constitution</label>
+                            </div>
+                            <div>
+                                <input type="text" name="con">
+                                <label>Ability Score</label>
+                            </div>
+                            <div>
+                                <ability-modifier ability="con">
+                                    <span>
+                                        <input type="text" name="con-modifier" value="" readonly="readonly">
+                                        <label>Ability Modifier</label>
+                                    </span>
+                                </ability-modifier>
+                            </div>
+                            <div>
+                                <input type="text" name="con-temp-score">
+                                <label>Temp Score</label>
+                            </div>
+                            <div>
+                                <ability-modifier ability="con">
+                                    <span>
+                                        <input type="text" name="con-temp-modifier" value="" readonly="readonly">
+                                        <label>Temp Modifier</label>
+                                    </span>
+                                </ability-modifier>
+                            </div>
+                            <div>
+                                <span>Int</span>
+                                <label>Intelligence</label>
+                            </div>
+                             <div>
+                                <input type="text" name="int">
+                                <label>Ability Score</label>
+                            </div>
+                            <div>
+                                <ability-modifier ability="int">
+                                    <span>
+                                        <input type="text" name="int-modifier" value="" readonly="readonly">
+                                        <label>Ability Modifier</label>
+                                    </span>
+                                </ability-modifier>
+                            </div>
+                            <div>
+                                <input type="text" name="int-temp-score">
+                                <label>Temp Score</label>
+                            </div>
+                            <div>
+                                <ability-modifier ability="int">
+                                    <span>
+                                        <input type="text" name="int-temp-modifier" value="" readonly="readonly">
+                                        <label>Temp Modifier</label>
+                                    </span>
+                                </ability-modifier>
+                            </div>
+                            <div>
+                                <span>Wis</span>
+                                <label>Wisdom</label>
+                            </div>
+                            <div>
+                                <input type="text" name="wis">
+                                <label>Ability Score</label>
+                            </div>
+                            <div>
+                                <ability-modifier ability="wis">
+                                    <span>
+                                        <input type="text" name="wis-modifier" value="" readonly="readonly">
+                                        <label>Ability Modifier</label>
+                                    </span>
+                                </ability-modifier>
+                            </div>
+                            <div>
+                                <input type="text" name="wis-temp-score">
+                                <label>Temp Score</label>
+                            </div>
+                            <div>
+                                <ability-modifier ability="wis">
+                                    <span>      
+                                        <input type="text" name="wis-temp-modifier" value="" readonly="readonly">
+                                        <label>Temp Modifier</label>
+                                    </span>
+                                </ability-modifier>
+                            </div>
+                            <div>
+                                <span>Cha</span>
+                                <label>Charisma</label></div>
+                            <div>
+                                <input type="text" name="cha">
+                                <label>Ability Score</label>
+                            </div>
+                            <div>
+                                <ability-modifier ability="cha">
+                                    <span>
+                                        <input type="text" name="cha-modifier" value="" readonly="readonly">
+                                        <label>Ability Modifier</label>
+                                    </span>
+                                </ability-modifier>
+                            </div>
+                            <div>
+                                <input type="text" name="cha-temp-score">
+                                <label>Temp Score</label>
+                            </div>
+                            <div>
+                                <ability-modifier ability="cha" temp-score="character.abilities.tempcha" show="temp">
+                                    <span>
+                                        <input type="text" name="cha-temp-modifier" value="" readonly="readonly">
+                                        <label>Temp Modifier</label>
+                                    </span>
+                                </ability-modifier>
+                            </div>
+                        </section>
+                    </article>
+                    <article id="combat">
+                        <h1>Defense</h1>
+                        <section>
+                            <div><span>AC</span><label>Armor Class</label></div>
+                            <div><input type="text" name="ac"><label>Total =</label></div>
+                            <div><label>10+</label></div>
+                            <div>
+                                <input type="text" name="ac-armor-bonus">
+                                <label>Armor</label>
+                            </div>
+                            <div>
+                                <input type="text" name="ac-shield-bonus">
+                                <label>Shield</label>
+                            </div>
+                            <div>
+                                <input type="text" name="dex-modifier" readonly="readonly" value=""><label>Attribute Modifier</label>
+                            </div>
+                            <div>
+                                <input type="text" name="ac-misc-modifier">
+                                <label>Misc Modifier</label>
+                            </div>
+                            <div><span>HP</span><label>Hit Points</label></div>
+                            <div>
+                                <input type="text" name="hp-total">
+                                <label>Total</label>
+                            </div>
+                            <div class="w180">
+                                <input type="text" name="hp-wounds">
+                                <label>Wounds/Current</label>
+                            </div>
+                        </section>
+                    </article>
+
+                    <article id="offense">
+                        <h1>Offense</h1>
+                        <section>
+                           <div><label>To Hit</label></div>
+                            <div><input type="text" name="to-hit"><label>Total =</label></div>
+                            <div><label>20+</label></div>
+                            <div>
+                                <input type="text" name="dex-modifier" class="auto-calc"><label>Attribute Modifier</label>
+                            </div>
+                            <div>
+                                <input type="text" name="tohit-level-modifier">
+                                <label>+ Level Bonus</label>
+                            </div>
+                            <div>
+                                <input type="text" name="tohit-misc-modifier">
+                                <label>+ Misc Modifier</label>
+                            </div>
+                        </section>
+                    </article>
+
+                    <article id="experience" class="experience">
+                            <div><span>XP</span><label>Experience Points</label></div>
+                            <div>
+                                <input type="text" name="xp-total">
+                                <label>Total</label>
+                            </div>
+                            <div>
+                                <input type="text" name="xp-to-next-level">
+                                <label>Next Level</label>
+                            </div>
+                        </section>
+                    </article>
+                    <article id="abilities">
+                        <h1>Abilities &amp; Advantages</h1>
+                        <section>
+                            <div><span>Racial Abilities</span></div>
+                            <div>
+                                <div>+</div>
+                            </div>
+
+                            <div><span>Class Abilities</span></div>
+                            <div>
+                                <div>+</div>
+                            </div>
+                        </section>
+                    </article>
+                    <article id="equipment">
+                        <h1>Weapons</h1>
+                            <section></section>
+                    </article>
+                    <article id="spells">
+                        <h1>Spell List</h1>
+                        <section>
+                            <div><label>Spell Level</label></div>
+                            <div><label>0th</label></div>
+                            <div><label>1st</label></div>
+                            <div><label>2nd</label></div>
+                            <div><label>3rd</label></div>
+                            <div><label>4th</label></div>
+                            <div><label>5th</label></div>
+                            <div><label>6th</label></div>
+                            <div><label>7th</label></div>
+                            <div><label>8th</label></div>
+                            <div><label>9th</label></div>
+
+                            <div><label>Spells Known</label></div>
+                            <div><input type="text" name="spells-known-0"></div>
+                            <div><input type="text" name="spells-known-1"></div>
+                            <div><input type="text" name="spells-known-2"></div>
+                            <div><input type="text" name="spells-known-3"></div>
+                            <div><input type="text" name="spells-known-4"></div>
+                            <div><input type="text" name="spells-known-5"></div>
+                            <div><input type="text" name="spells-known-6"></div>
+                            <div><input type="text" name="spells-known-7"></div>
+                            <div><input type="text" name="spells-known-8"></div>
+                            <div><input type="text" name="spells-known-9"></div>
+
+                            <div><label>Spells per Day</label></div>
+                            <div><input type="text" name="spells-perday-0"></div>
+                            <div><input type="text" name="spells-perday-1"></div>
+                            <div><input type="text" name="spells-perday-2"></div>
+                            <div><input type="text" name="spells-perday-3"></div>
+                            <div><input type="text" name="spells-perday-4"></div>
+                            <div><input type="text" name="spells-perday-5"></div>
+                            <div><input type="text" name="spells-perday-6"></div>
+                            <div><input type="text" name="spells-perday-7"></div>
+                            <div><input type="text" name="spells-perday-8"></div>
+                            <div><input type="text" name="spells-perday-9"></div>
+
+                            <div>Bonus Spells</label></div>
+                            <div><label>—</label></div>
+                            <div><input type="text" name="bonus-spells-1"></div>
+                            <div><input type="text" name="bonus-spells-2"></div>
+                            <div><input type="text" name="bonus-spells-3"></div>
+                            <div><input type="text" name="bonus-spells-4"></div>
+                            <div><input type="text" name="bonus-spells-5"></div>
+                            <div><input type="text" name="bonus-spells-6"></div>
+                            <div><input type="text" name="bonus-spells-7"></div>
+                            <div><input type="text" name="bonus-spells-8"></div>
+                            <div><input type="text" name="bonus-spells-9"></div>
+                        </section>
+                    </article>
+                </form>
+            </div>
+        </div>
+        <footer>
+        </footer>
+    </body>
+</html>

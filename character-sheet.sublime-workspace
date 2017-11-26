@@ -520,19 +520,36 @@
 	"buffers":
 	[
 		{
-			"file": "test.html",
+			"contents": "var app = new Vue({\n\tel : '#sheet',\n\tdata : character,\n\tcomputed : {\n\n\t}\n});\n\n\nvar character = {\n\tgeneral : {\n\t\tname : \"\",\n        title : \"\",\n        race : \"\",\n        alignment : \"\",\n        deity : \"\",\n\t},\n\tphysical : {\n\n\t},\n\tattributes : {\n\t\tstr : 0,\n\t\tdex : 0,\n\t\tcon : 0,\n\t\tint : 0,\n\t\twis : 0,\n\t\tcha : 0\n\t},\n\tlevel : {\n\n\t},\n\tabilities : {\n\n\t}\n\n}\n\nvar computeModifier = function() {\n\t\n};",
+			"file": "js/app.js",
+			"file_size": 430,
+			"file_write_time": 131552702166886037,
 			"settings":
 			{
-				"buffer_size": 113880,
+				"buffer_size": 392,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.js",
+			"contents": "var config = {\n\n\tattributes : {\n\t\tstr : {\n\t\t\tname : \"strength\",\n\t\t\tmodifiers : {\n\t\t\t\t\n\t\t\t}\n\t\t},\n\t\tdex : 0,\n\t\tcon : 0,\n\t\tint : 0,\n\t\twis : 0,\n\t\tcha : 0\n\t}\n\t\n};",
+			"file": "rulesConfig/conf.js",
+			"file_size": 21,
+			"file_write_time": 131552698099063412,
 			"settings":
 			{
-				"buffer_size": 1326,
+				"buffer_size": 157,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "var config = {"
+			}
+		},
+		{
+			"file": "CharacterSheet.html",
+			"settings":
+			{
+				"buffer_size": 19167,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -782,11 +799,13 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/AWilson/Documents/NodeServer/js",
-		"/C/Users/AWilson/Documents/NodeServer"
+		"/C/Users/Austin/Documents/Code Files/CharacterSheet/CharacterSheet-CastlesAndCrusades",
+		"/C/Users/Austin/Documents/Code Files/CharacterSheet/CharacterSheet-CastlesAndCrusades/js",
+		"/C/Users/Austin/Documents/Code Files/CharacterSheet/CharacterSheet-CastlesAndCrusades/rulesConfig"
 	],
 	"file_history":
 	[
+		"/C/Users/Austin/Documents/Code Files/CharacterSheet/CharacterSheet-CastlesAndCrusades/test.html",
 		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/public/css/plexus_intl/styles.css",
 		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Participant.php",
 		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Person.php",
@@ -913,12 +932,11 @@
 		"/C/Users/AWilson/Documents/Platform/trunk/include/forms/CB_Sponsorship_Request.php",
 		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/application/controllers/PasswordController.php",
 		"/C/Users/AWilson/Documents/Platform/trunk/sites/admin/application/forms/Organization_Phone_Number_Assignment.php",
-		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/public/css/iatf/styles.css",
-		"/C/Users/AWilson/Documents/Platform/trunk/include/models/admin/Purchase_Transaction.php"
+		"/C/Users/AWilson/Documents/Platform/trunk/sites/platform/public/css/iatf/styles.css"
 	],
 	"find":
 	{
-		"height": 52.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -989,6 +1007,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ng",
+			"\"></div>",
+			"<input type=\"text\" name=\"",
+			"</label>",
+			"<div><label>",
 			"addC",
 			"taskAssignmentArray",
 			"$currentEO",
@@ -1111,12 +1134,7 @@
 			"getParam",
 			"getParams",
 			"Param",
-			"breadcrumbs",
-			"#666666",
-			"RefundValue",
-			"\", \"",
-			"-> joinInner (",
-			"\"), \""
+			"breadcrumbs"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1143,19 +1161,76 @@
 			[
 				{
 					"buffer": 0,
-					"file": "test.html",
+					"file": "js/app.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 113880,
+						"buffer_size": 392,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								722,
-								722
+								247,
+								309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rulesConfig/conf.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var config = {",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "CharacterSheet.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
 							]
 						],
 						"settings":
@@ -1168,37 +1243,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.js",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1326,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1206,7 +1251,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -1247,7 +1292,7 @@
 	"project": "character-sheet.sublime-project",
 	"replace":
 	{
-		"height": 53.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
